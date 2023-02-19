@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Benjamin254-bmw
+- 👋 Hi, I’m Benjamin
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Javascript and php.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently enrolled in the ALX Software Engineering program.
+- 💞️ I’m looking to collaborate on A.I and data organization projects.
 - 📫 Reach me through email @wachirabenjamin18@gmail.com
 
 <!---
